@@ -1,7 +1,7 @@
 Rover5 Motor Driver Board
 ================
 
-[![Rover 5 Motor Driver Board](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/5/9/3/11593-02_medium.jpg) 
+[![Rover 5 Motor Driver Board](https://cdn.sparkfun.com/assets/parts/7/6/0/7/11593-02.jpg) 
 *Rover 5 Motor Driver Board(ROB-11593)*](https://www.sparkfun.com/products/11593)
 
 The Rover 5 Motor Driver Board was originally designed by Dagu for the Rover 5 platform, but is ideal for any small 4-wheel driven
